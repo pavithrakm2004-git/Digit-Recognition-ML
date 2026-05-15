@@ -2,6 +2,9 @@
 
 A collaborative Machine Learning project designed to classify handwritten digits from the MNIST dataset. This project features a full end-to-end pipeline: from Feature Engineering (HOG) and Dimensionality Reduction (PCA) to a Live Web Deployment using Streamlit.
 
+**Live Demo URL**
+https://digit-recognition-ml-jehpwvc4p8cbrknwwcdpmp.streamlit.app/
+
 **Team Members & Roles** 
 
 Member A: Shajeea Minnath A T   
