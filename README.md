@@ -86,6 +86,8 @@ Bash
 Bash
 **streamlit run app.py**
 
+<img width="1174" height="993" alt="image" src="https://github.com/user-attachments/assets/27436676-aa03-44f8-8b0e-beee6b4aa98f" />
+
 
 **Results Summary**
 
