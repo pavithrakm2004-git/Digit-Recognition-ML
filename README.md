@@ -96,3 +96,12 @@ Classifier: SVM (C=10, Gamma='scale')
 Accuracy: ~98.2%
 
 Inference Time: < 0.1s per digit
+
+**ScreenShots**
+
+<img width="895" height="760" alt="Screenshot 2026-05-16 130709" src="https://github.com/user-attachments/assets/bcbe61c7-4442-4afe-b35c-c8717e19b948" />
+
+<img width="877" height="832" alt="Screenshot 2026-05-16 131042" src="https://github.com/user-attachments/assets/00ff696d-9d65-4a76-b56a-072c6512ce2c" />
+
+<img width="895" height="843" alt="Screenshot 2026-05-16 131021" src="https://github.com/user-attachments/assets/ff57e0a3-3c31-4958-85d7-3a51c0b83c02" />
+
